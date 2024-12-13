@@ -1,5 +1,5 @@
 import React from 'react'
-import defaultStyles from './styles/listbox.styles.js'
+import defaultStyles from './styles/listbox.styles'
 
 export default function Errorbox(props) {
   const { id, errorMessage, styles } = props
